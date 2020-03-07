@@ -16,20 +16,11 @@ module.exports = {
     {
       icon: 'icon-social-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://github.com/KrzysztofRycombel',
     },
-    {
-      icon: 'icon-social-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
-    },
-    {
-      icon: 'icon-social-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
-    },
+    
   ],
-  email: 'anubhav.srivastava00@gmail.com',
-  phone: '000-00000',
-  address: '305 Del Sol, Sunnyvale, CA',
+  email: 'krzysztofr[@]tutamail.com',
+  
+  address: 'Poland',
 };
